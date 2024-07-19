@@ -11,8 +11,8 @@ level: Experienced
 exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 68%
+source-wordcount: '83'
+ht-degree: 77%
 
 ---
 
@@ -24,4 +24,4 @@ Scopri come configurare un’attività di arricchimento in base alle informazion
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12&learn=on){transcript=true}
 
-Per ulteriori informazioni sull&#39;arricchimento, vedere [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html)
+Per ulteriori informazioni sull&#39;arricchimento, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html)

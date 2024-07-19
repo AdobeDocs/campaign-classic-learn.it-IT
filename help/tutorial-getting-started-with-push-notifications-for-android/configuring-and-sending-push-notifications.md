@@ -12,18 +12,18 @@ level: Beginner, Intermediate, Experienced
 exl-id: 42adcaca-248f-4637-88c4-f9d24cd26dd6
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 3%
+source-wordcount: '54'
+ht-degree: 7%
 
 ---
 
 # Configurazione e invio di notifiche push
 
-Scopri come configurare e inviare un [!DNL push] notifica agli utenti di un [!DNL Android] applicazioni.
+Scopri come configurare e inviare una notifica [!DNL push] agli utenti di applicazioni [!DNL Android].
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on){transcript=true}
 
 **Passaggio precedente**
 
-Passaggio 2: [Configurazione di un servizio Android e creazione di un’app mobile Android in Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
+Passaggio 2: [Configurazione di un servizio Android e creazione di un&#39;app mobile Android in Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 

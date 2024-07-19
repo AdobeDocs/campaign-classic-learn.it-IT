@@ -10,14 +10,14 @@ last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
 source-git-commit: eae208987b8430773421cba7aec2f77d5441b618
 workflow-type: tm+mt
-source-wordcount: '1279'
+source-wordcount: '1265'
 ht-degree: 99%
 
 ---
 
 # Dieci best practice per il successo di [!DNL Adobe Campaign] per gli addetti al marketing
 
-Christian Klimczyk si autodefinisce un “nerd di Adobe&quot; con sette anni di esperienza in [!DNL Adobe Experience Cloud], principalmente incentrata su [!DNL Adobe Campaign]. Come proprietario di Adobe Platform per una grande azienda CPG, Christian e il suo team utilizzano [!DNL Campaign] per tutte le comunicazioni e interazioni con i consumatori. Coordinano e gestiscono facilmente requisiti normativi elevati e campagne di marketing multicanale per consumatori con direct mailing, e-mail e SMS/MMS.
+Christian Klimczyk si autodefinisce un “nerd di Adobe” con sette anni di esperienza in [!DNL Adobe Experience Cloud], principalmente incentrata su [!DNL Adobe Campaign]. Come proprietario di Adobe Platform per una grande azienda CPG, Christian e il suo team utilizzano [!DNL Campaign] per tutte le comunicazioni e interazioni con i consumatori. Coordinano e gestiscono facilmente requisiti normativi elevati e campagne di marketing multicanale per consumatori con direct mailing, e-mail e SMS/MMS.
 
 In questo articolo, Christian condivide le sue best practice per aiutare i professionisti di Adobe Campaign a scoprire e accelerare la trasformazione digitale del consumatore e una migliore esperienza per loro i clienti.
 

@@ -9,14 +9,14 @@ team: TM
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 86%
+ht-degree: 89%
 
 ---
 
 
 # Attività di consegna e-mail e attività di consegna
 
-A [!UICONTROL Delivery-type activity] consente di creare un’azione di consegna. Può essere realizzata utilizzando elementi di input.
+[!UICONTROL Delivery-type activity] consente di creare un&#39;azione di consegna. Può essere realizzata utilizzando elementi di input.
 
 Questo video spiega come distribuire un modello di consegna e-mail. Spiega la differenza tra una consegna e-mail e un flusso di lavoro di consegna.
 

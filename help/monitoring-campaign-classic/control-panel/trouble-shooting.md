@@ -1,6 +1,6 @@
 ---
 title: Risoluzione dei problemi del Pannello di controllo
-description: Il Pannello di controllo Campaign ti consente di monitorare e gestire l’archiviazione SFTP per istanza e di inserire nell'elenco Consentiti gli indirizzi IP di.
+description: Il Pannello di controllo Campaign ti consente di monitorare e gestire l’archiviazione SFTP per istanza e di inserire nell'elenco Consentiti gli indirizzi IP di un’istanza e di un’istanza di un’istanza di.
 feature: Control Panel
 jira: KT-2938
 doc-type: article
@@ -8,8 +8,8 @@ activity: use
 team: PM
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '334'
-ht-degree: 83%
+source-wordcount: '315'
+ht-degree: 79%
 
 ---
 
@@ -29,12 +29,12 @@ L’utente deve individuare il proprio ID organizzazione IMS (xxx). L’amminist
 gli utenti non visualizzano i collegamenti finché non vengono aggiunti come utenti al profilo di prodotto _Campaign-xxx-Administrators/Admin_.
 
 **Come procedere:**
-L’amministratore deve aggiungere l’utente al profilo di prodotto _Campaign-xxx-Admins_ per ogni istanza che desidera gestire. Se l’utente è amministratore di tutte le istanze, deve comunque aggiungere se stesso come “utente.
+L’amministratore deve aggiungere l’utente al profilo di prodotto _Campaign-xxx-Admins_ per ogni istanza che desidera gestire. Se l’utente è amministratore di tutte le istanze, deve comunque aggiungere se stesso come utente.
 
 ### Sintomo: un’istanza non è elencata nel [!UICONTROL Control Panel]
 
 **Causa:**
-Probabilmente l’utente deve essere aggiunto come profilo di prodotto &quot;utente&quot; _Campaign-xxx-Administrators/Admin_ per l’istanza mancante
+Probabilmente l&#39;utente deve essere aggiunto come &quot;utente&quot; al profilo di prodotto _Campaign-xxx-Administrators/Admin_ per l&#39;istanza mancante
 
 **Come procedere:**
 L’amministratore deve aggiungere l’utente al profilo di prodotto _Campaign-xxx-Admins_ per ogni istanza che desidera gestire. Se l’utente è amministratore di tutte le istanze, deve comunque aggiungere se stesso come “utente”.

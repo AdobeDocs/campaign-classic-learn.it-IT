@@ -12,17 +12,17 @@ level: Experienced
 exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 44%
+source-wordcount: '73'
+ht-degree: 34%
 
 ---
 
-# Estensione di [!UICONTROL app subscription] schema per personalizzare le notifiche push
+# Estensione dello schema [!UICONTROL app subscription] per personalizzare le notifiche push
 
-Scopri come estendere [!UICONTROL app subscription] schema per memorizzare i valori di personalizzazione [!DNL Campaign] riceve da un’app mobile.
+Scopri come estendere lo schema [!UICONTROL app subscription] per memorizzare i valori di personalizzazione [!DNL Campaign] ricevuti da un&#39;app mobile.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
 
 **Passaggio successivo**
 
-Passaggio 2: [Configurazione di un servizio Android e creazione di un’app mobile Android in Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
+Passaggio 2: [Configurazione di un servizio Android e creazione di un&#39;app mobile Android in Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
