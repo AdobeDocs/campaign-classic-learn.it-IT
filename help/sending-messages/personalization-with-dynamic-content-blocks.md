@@ -5,11 +5,12 @@ feature: Personalization
 jira: KT-1559
 doc-type: feature video
 activity: use
+level: Intermediate
 team: TM
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 71%
+source-wordcount: '252'
+ht-degree: 70%
 
 ---
 
@@ -27,7 +28,7 @@ Questa esercitazione illustra come personalizzare i contenuti di consegna, utili
 
 ## Creare e aggiungere un blocco di personalizzazione a una consegna
 
-Un blocco di personalizzazione è dinamico e contiene un codice di rendering specifico che può essere aggiunto alle consegne. Ad esempio, puoi aggiungere immagini, intestazioni e piè di pagina per i messaggi di posta elettronica, collegamenti alle pagine mirror, collegamenti per annullare l’iscrizione e molto altro.
+Un blocco di personalizzazione è dinamico e contiene un codice di rendering specifico che può essere aggiunto alle consegne. Ad esempio puoi aggiungere immagini, intestazioni e piè di pagina per i messaggi di posta elettronica, collegamenti alle pagine mirror, collegamenti per annullare l’iscrizione e molto altro.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on){transcript=true}
 
