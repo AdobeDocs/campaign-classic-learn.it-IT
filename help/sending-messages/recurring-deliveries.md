@@ -38,10 +38,10 @@ Le consegne ricorrenti e continue differiscono nel modo in cui vengono gestiti i
 
 Questo video spiega come configurare una consegna ricorrente e un’attività di pianificazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27506?quality=12&learn=on&captions=ita){transcript=true}
 
 ## Come impostare una consegna continua {#how-to-set-up-a-continuous-delivery}
 
 Questo video mostra come configurare una consegna continua con una query incrementale.
 
->[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329896?quality=12&learn=on&captions=ita){transcript=true}

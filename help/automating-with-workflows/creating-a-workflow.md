@@ -22,4 +22,4 @@ Adobe Campaign include un modulo per flussi di lavoro con cui puoi migliorare lâ
 
 Questo video spiega come creare un flusso di lavoro in Adobe Campaign Classic.
 
->[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329886?quality=12&learn=on&captions=ita){transcript=true}

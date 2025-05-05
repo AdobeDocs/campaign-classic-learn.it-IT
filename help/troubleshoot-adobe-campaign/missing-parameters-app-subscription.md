@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Scopri come aggiungere altri parametri in appSubscriptionRcp, se non vengono popolati.
 
->[!VIDEO](https://video.tv.adobe.com/v/335950?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422515?quality=12&learn=on&captions=ita){transcript=true}

@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Scopri come configurare un’attività del modulo di pianificazione in un flusso di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416037?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447117?quality=12&learn=on&captions=ita){transcript=true}

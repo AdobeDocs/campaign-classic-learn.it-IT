@@ -21,7 +21,7 @@ ht-degree: 77%
 
 Scopri il concetto di gruppi di controllo e come utilizzarli per la consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449978?quality=12&learn=on&captions=ita){transcript=true}
 
 >[!IMPORTANT]
 >Se nel flusso di lavoro di targeting sono presenti più consegne, devi abilitare le impostazioni del gruppo di controllo sia a livello di consegna che nelle impostazioni della campagna.

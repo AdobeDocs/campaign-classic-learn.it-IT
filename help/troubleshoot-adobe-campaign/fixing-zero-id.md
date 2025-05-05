@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Scopri come risolvere il problema di id zero (0)
 
->[!VIDEO](https://video.tv.adobe.com/v/335987?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3440149?quality=12&learn=on&captions=ita){transcript=true}

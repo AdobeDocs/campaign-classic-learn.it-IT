@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Scopri come eseguire il debug del problema relativo allo stato “Sent” nel registro SMS esteso, visualizzato quando un SMS viene inviato a un numero errato.
 
->[!VIDEO](https://video.tv.adobe.com/v/335980?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422579?quality=12&learn=on&captions=ita){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come inviare e convalidare una bozza.
 
->[!VIDEO](https://video.tv.adobe.com/v/330945?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448925?learn=on&captions=ita){transcript=true}

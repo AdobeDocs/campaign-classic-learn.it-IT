@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Scopri il processo di creazione di una consegna e-mail e come progettare e personalizzare i contenuti.
 
->[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447785?quality=12&learn=on&captions=ita){transcript=true}
 
 Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html?lang=it)

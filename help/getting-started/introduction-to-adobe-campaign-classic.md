@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri in che modo Adobe Campaign Classic si inserisce nel portfolio delle esperienze digitali Adobe e ottieni una panoramica delle sue funzioni e caratteristiche principali.
 
->[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39521?quality=12&learn=on&captions=ita){transcript=true}

@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Come abilitare l’indirizzo IP per effettuare richieste SOAP
 
->[!VIDEO](https://video.tv.adobe.com/v/335978?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422574?quality=12&learn=on&captions=ita){transcript=true}

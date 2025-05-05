@@ -20,4 +20,4 @@ ht-degree: 100%
 
 La mappa di calore dei flussi di lavoro di Adobe Campaign consiste in una rappresentazione grafica mediante codici colore di tutti i flussi di lavoro attualmente in esecuzione. Grazie a una rapida panoramica sul numero di flussi di lavoro simultanei, consente agli amministratori della piattaforma Adobe Campaign di monitorare il carico sull’istanza e pianificare i flussi di lavoro di conseguenza.
 
->[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329891?quality=12&learn=on&captions=ita){transcript=true}

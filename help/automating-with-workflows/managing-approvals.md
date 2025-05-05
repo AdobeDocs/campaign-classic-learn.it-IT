@@ -22,6 +22,6 @@ ht-degree: 51%
 Le approvazioni consentono agli operatori di prendere decisioni relative a un flusso di lavoro o di confermarne l’esecuzione.
 Scopri come impostare le approvazioni e una campagna, e come distinguere tra le approvazioni per consegne e flussi di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452622?quality=12&learn=on&captions=ita){transcript=true}
 
 Per ulteriori informazioni sulla definizione delle approvazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=it#sending-emails).

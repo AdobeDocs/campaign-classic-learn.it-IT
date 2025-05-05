@@ -22,4 +22,4 @@ ht-degree: 100%
 Scopri come creare un piano di marketing, un programma e una campagna, impostare le proprietà per una campagna e utilizzare la pianificazione.
 Il video mostra lo svolgimento di un esercizio passo per passo.
 
->[!VIDEO](https://video.tv.adobe.com/v/35132?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326562?quality=12&learn=on&captions=ita){transcript=true}

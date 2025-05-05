@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Scopri come applicare alla tua campagna le best practice per il recapito dei messaggi.
 
->[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452566?quality=12&learn=on&captions=ita){transcript=true}
 
 ## Risorse aggiuntive
 

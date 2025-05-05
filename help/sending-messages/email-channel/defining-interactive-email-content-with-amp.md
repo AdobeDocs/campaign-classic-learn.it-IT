@@ -25,7 +25,7 @@ Attualmente solo Gmail, Yahoo, FairEmail e Mail.ru supportano il formato AMP.
 
 Il video seguente spiega come attivare AMP in Adobe Campaign Classic e ne illustra l’utilizzo.
 
->[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39583?quality=12&learn=on&captions=ita){transcript=true}
 
 Per creare il tuo codice AMP, puoi utilizzare l’[editor AMP](https://playground.amp.dev/).
 

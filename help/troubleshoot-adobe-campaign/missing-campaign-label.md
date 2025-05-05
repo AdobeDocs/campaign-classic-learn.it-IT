@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Scopri come correggere il problema di etichetta campagna mancante in Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/335983?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436814?quality=12&learn=on&captions=ita){transcript=true}

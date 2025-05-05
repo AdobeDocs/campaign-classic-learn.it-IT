@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Scopri come correggere gli errori di pubblicazione per gli utenti non amministratori
 
->[!VIDEO](https://video.tv.adobe.com/v/335979?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436715?quality=12&learn=on&captions=ita){transcript=true}

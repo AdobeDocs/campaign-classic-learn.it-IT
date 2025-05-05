@@ -16,4 +16,4 @@ ht-degree: 100%
 # Problemi di bilanciamento del carico
 
 Scopri come risolvere i problemi di bilanciamento del carico al riavvio dell’istanza
->[!VIDEO](https://video.tv.adobe.com/v/335984?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437499?quality=12&learn=on&captions=ita){transcript=true}

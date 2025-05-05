@@ -22,6 +22,6 @@ L’attività di arricchimento è un oggetto flusso di lavoro che aggiunge dati 
 
 Scopri come configurare un’attività di arricchimento in base alle informazioni del registro di consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41716?quality=12&learn=on&captions=ita){transcript=true}
 
 Per ulteriori informazioni sull&#39;arricchimento, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=it)

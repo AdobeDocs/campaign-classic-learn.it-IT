@@ -21,4 +21,4 @@ ht-degree: 36%
 
 Scopri come aggiungere seed e bozze a un’e-mail esistente e come inviarla.
 
->[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328513?quality=12&learn=on&captions=ita){transcript=true}

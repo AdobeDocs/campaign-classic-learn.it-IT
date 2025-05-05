@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Scopri come risolvere il problema di scadenza della sessione durante l’approvazione di un’offerta.
 
->[!VIDEO](https://video.tv.adobe.com/v/335898?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422550?quality=12&learn=on&captions=ita){transcript=true}

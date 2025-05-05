@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Scopri come risolvere i problemi di errore di memoria esaurita nelle installazioni on-premise.
 
->[!VIDEO](https://video.tv.adobe.com/v/335891?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422560?quality=12&learn=on&captions=ita){transcript=true}

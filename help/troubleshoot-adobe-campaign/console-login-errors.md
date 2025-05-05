@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Scopri come correggere gli errori che si verificano durante l’accesso alla console
 
->[!VIDEO](https://video.tv.adobe.com/v/335896?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437774?quality=12&learn=on&captions=ita){transcript=true}

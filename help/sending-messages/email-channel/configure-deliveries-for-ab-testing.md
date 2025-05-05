@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come configurare una consegna per il test A/B.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415929?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446295?quality=12&learn=on&captions=ita){transcript=true}

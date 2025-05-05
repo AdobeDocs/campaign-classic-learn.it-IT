@@ -30,18 +30,18 @@ Questa esercitazione illustra come personalizzare i contenuti di consegna, utili
 
 Un blocco di personalizzazione è dinamico e contiene un codice di rendering specifico che può essere aggiunto alle consegne. Ad esempio puoi aggiungere immagini, intestazioni e piè di pagina per i messaggi di posta elettronica, collegamenti alle pagine mirror, collegamenti per annullare l’iscrizione e molto altro.
 
->[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340471?quality=12&learn=on&captions=ita){transcript=true}
 
 ## Aggiungere un campo di personalizzazione a una consegna
 
 I campi di personalizzazione sono utilizzati per la personalizzazione di primo livello del contenuto dei messaggi inviati. I campi inseriti in un contenuto principale mostrano la posizione in cui inserire i dati dall’origine dati selezionata.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329894?quality=12&learn=on&captions=ita){transcript=true}
 
 ## Aggiungere contenuto condizionale a una consegna
 
 Configurando i campi di contenuto condizionale puoi creare una personalizzazione avanzata. I blocchi di testo completi e/o le immagini vengono sostituiti quando viene soddisfatta una particolare condizione. Questo video illustra come aggiungere contenuti condizionali a una consegna portando l’esempio di una newsletter multilingue.
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329895?quality=12&learn=on&captions=ita){transcript=true}
 
 Per ulteriori informazioni su Personalization, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=it).

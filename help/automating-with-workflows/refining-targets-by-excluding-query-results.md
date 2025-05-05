@@ -21,4 +21,4 @@ ht-degree: 83%
 
 Scopri come ottenere un target più mirato applicando **[!UICONTROL standard exclusion]** a un flusso di lavoro. Scopri anche come creare filtri predefiniti e risolvere i problemi relativi al flusso di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326454?quality=12&learn=on&captions=ita){transcript=true}

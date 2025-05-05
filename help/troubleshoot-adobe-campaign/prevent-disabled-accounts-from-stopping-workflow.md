@@ -19,4 +19,4 @@ ht-degree: 100%
 Scopri come risolvere il problema di un flusso di lavoro interrotto, se l’utente è stato disabilitato in Adobe Campaign.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335988?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422510?quality=12&learn=on&captions=ita){transcript=true}
