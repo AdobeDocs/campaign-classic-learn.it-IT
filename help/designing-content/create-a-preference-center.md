@@ -24,4 +24,4 @@ Scopri come creare un centro preferenze utilizzando l’editor di applicazioni w
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12&learn=on){transcript=true}
 
-Per ulteriori informazioni, consulta la documentazione dettagliata su [Creazione di una pagina di destinazione](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
+Per ulteriori informazioni, consulta la documentazione dettagliata su [Creazione di una pagina di destinazione](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=it).

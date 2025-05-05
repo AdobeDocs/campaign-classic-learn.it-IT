@@ -24,4 +24,4 @@ Scopri come configurare un’attività di arricchimento in base alle informazion
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12&learn=on){transcript=true}
 
-Per ulteriori informazioni sull&#39;arricchimento, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html)
+Per ulteriori informazioni sull&#39;arricchimento, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=it)

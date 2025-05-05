@@ -23,4 +23,4 @@ Scopri i diversi tipi di contenuti dinamici e come creare e applicare blocchi di
 
 >[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12&learn=on){transcript=true}
 
-Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en).
+Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=it).

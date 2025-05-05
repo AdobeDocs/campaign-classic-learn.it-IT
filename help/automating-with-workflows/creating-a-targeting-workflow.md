@@ -23,4 +23,4 @@ Adobe Campaign utilizza i flussi di lavoro per eseguire campagne di targeting, c
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
 
 Consulta la documentazione [sui flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=it)
-e [informazioni sulle attività di targeting](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) per ulteriori informazioni.
+e [informazioni sulle attività di targeting](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=it) per ulteriori informazioni.

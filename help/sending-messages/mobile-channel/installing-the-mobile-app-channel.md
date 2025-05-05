@@ -23,4 +23,4 @@ Scopri come verificare se il canale dell’app mobile è installato nella tua is
 
 >[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
-Per ulteriori informazioni sulla configurazione del canale app mobile, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=en#installing-package-ios).
+Per ulteriori informazioni sulla configurazione del canale app mobile, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=it#installing-package-ios).
