@@ -8,14 +8,14 @@ auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 98%
+ht-degree: 93%
 
 ---
 
 
 # Tutorial su Adobe Campaign Classic v7 {#tutorials}
 
-+ [Adobe Campaign Classic V7 - Tutorials](/help/overview.md)
++ [Adobe Campaign Classic V7 - Tutorial](/help/overview.md)
 + Introduzione {#getting-started}
    + [Introduzione ad Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Installare e configurare il client di Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -55,7 +55,7 @@ ht-degree: 98%
       + [Installazione del canale app mobile](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Configurare il canale push con Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Guida introduttiva alle notifiche push per Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=it)
-   + Direct mailing {#direct-mail}
+   + Direct mail {#direct-mail}
       + [Creazione di consegne di direct mailing](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Utilizzare i modelli di consegna{#using-delivery-templates}
       + [Configurazione di un modello di consegna](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
@@ -72,13 +72,13 @@ ht-degree: 98%
    + [Introduzione a campagne multicanale e cross-channel](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Creare campagne multicanale](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [Creare campagne cross-channel](/help/orchestrating-campaigns/cross-channel-campaigns.md)
-+ Rapporto {#reporting}
++ Report {#reporting}
    + [Accesso ai rapporti incorporati](/help/reporting/accessing-built-in-reports.md)
    + [Generazione di un rapporto di analisi descrittivo](/help/reporting/generating-a-descriptive-analysis-report.md)
-+ Automatizzare con workflow{#automating-with-workflows}
++ Automatizzare con flusso di lavoro{#automating-with-workflows}
    + [Creazione di un flusso di lavoro](/help/automating-with-workflows/creating-a-workflow.md)
    + [Creazione di un flusso di lavoro di targeting](/help/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [Ottimizzazione delle destinazioni attraverso la combinazione dei risultati delle query](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
+   + [Ottimizzazione dei target attraverso la combinazione dei risultati delle query](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [Ottimizzazione del targeting attraverso l’esclusione dei risultati delle query](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
    + [Utilizzo dell’attività di aggiornamento elenco per creare un elenco con un flusso di lavoro](/help/automating-with-workflows/using-the-update-list-activity.md)
    + [Gestire i fusi orari](/help/automating-with-workflows/manage-time-zones.md)
@@ -92,15 +92,15 @@ ht-degree: 98%
    + [Configurare le pagine di destinazione](/help/designing-content/configure-landingpages.md)
    + [Creare un centro preferenze](/help/designing-content/create-a-preference-center.md)
 + [Creare un sondaggio](/help/designing-content/create-a-survey.md)
-+ Monitoraggio {#monitoring}
++ Monitora {#monitoring}
    + [Mappa di calore del flusso di lavoro](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Audit Trail](/help/monitoring-campaign-classic/audit-trail.md)
-+ Gestione dei dati {#data-management}
++ Gestione dati {#data-management}
    + [Dati della query](/help/data-management/query-data.md)
 + Integrare {#integrating}
    + [Integrare con Adobe Target](/help/integrations/target-integration.md)
    + [Integrare con Dynamics 365](/help/integrations/dynamics365-integration.md)
-+ Amministrare {#administrating}
++ Amministra {#administrating}
    + [Pannello di controllo](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=it){target="_blank"}
    + [Configurare gli SMS per Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=it)
    + Accesso a un database esterno (FDA) {#fda}
