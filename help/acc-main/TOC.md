@@ -6,9 +6,9 @@ user-guide-description: Video e tutorial su Adobe Campaign Classic v7.
 breadcrumb-title: Tutorial su Campaign Classic v7
 auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '415'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -46,7 +46,7 @@ ht-degree: 93%
       + [Definizione del contenuto delle e-mail interattive con AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Risoluzione dei problemi di consegna e-mail](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Aggiungi allegati a una consegna e-mail](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
-      + [Progettare le e-mail per la consegna](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Progettare le e-mail per la recapitabilità](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
       + [Massimizzare il ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=it)
       + [Guida alle best practice per la consegna](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
    + Canale SMS {#sms-channel}
@@ -56,7 +56,7 @@ ht-degree: 93%
       + [Configurare il canale push con Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Guida introduttiva alle notifiche push per Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=it)
    + Direct mail {#direct-mail}
-      + [Creazione di consegne di direct mailing](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
+      + [Creare una consegna direct mail](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Utilizzare i modelli di consegna{#using-delivery-templates}
       + [Configurazione di un modello di consegna](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Impostazione delle proprietà del modello di consegna](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
@@ -66,16 +66,16 @@ ht-degree: 93%
       + [Utilizzo di filtri predefiniti](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
    + Monitoraggio dei messaggi {#monitoring-messages}
       + [Informazioni sulla gestione della quarantena](/help/sending-messages/quarantine-management.md)
-   + [Configurazione e gestione dei servizi di abbonamento](/help/sending-messages/configuring-and-managing-subscription-services.md)
+   + [Configurazione e gestione dei servizi di iscrizione](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Orchestrare le campagne {#orchestration}
    + [Esecuzione di una campagna](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [Introduzione a campagne multicanale e cross-channel](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Creare campagne multicanale](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [Creare campagne cross-channel](/help/orchestrating-campaigns/cross-channel-campaigns.md)
-+ Report {#reporting}
++ Rapporti {#reporting}
    + [Accesso ai rapporti incorporati](/help/reporting/accessing-built-in-reports.md)
    + [Generazione di un rapporto di analisi descrittivo](/help/reporting/generating-a-descriptive-analysis-report.md)
-+ Automatizzare con flusso di lavoro{#automating-with-workflows}
++ Automatizzare con il flusso di lavoro{#automating-with-workflows}
    + [Creazione di un flusso di lavoro](/help/automating-with-workflows/creating-a-workflow.md)
    + [Creazione di un flusso di lavoro di targeting](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [Ottimizzazione dei target attraverso la combinazione dei risultati delle query](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
@@ -92,7 +92,7 @@ ht-degree: 93%
    + [Configurare le pagine di destinazione](/help/designing-content/configure-landingpages.md)
    + [Creare un centro preferenze](/help/designing-content/create-a-preference-center.md)
 + [Creare un sondaggio](/help/designing-content/create-a-survey.md)
-+ Monitora {#monitoring}
++ Monitorare {#monitoring}
    + [Mappa di calore del flusso di lavoro](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Audit Trail](/help/monitoring-campaign-classic/audit-trail.md)
 + Gestione dati {#data-management}
@@ -100,11 +100,11 @@ ht-degree: 93%
 + Integrare {#integrating}
    + [Integrare con Adobe Target](/help/integrations/target-integration.md)
    + [Integrare con Dynamics 365](/help/integrations/dynamics365-integration.md)
-+ Amministra {#administrating}
++ Amministrare {#administrating}
    + [Pannello di controllo](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=it){target="_blank"}
    + [Configurare gli SMS per Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=it)
-   + Accesso a un database esterno (FDA) {#fda}
+   + Accedere a un database esterno (FDA) {#fda}
       + [Gestione dei big data su [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Risoluzione dei problemi in Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=it)
 + Strategia e leadership di pensiero{#strategy}
-   + [Dieci best practice per il successo Adobe Campaign per gli addetti al marketing](/help/strategy/10-best-practices-for-marketers.md)
+   + [Dieci best practice per il successo con Adobe Campaign per i marketer](/help/strategy/10-best-practices-for-marketers.md)
