@@ -6,10 +6,10 @@ index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: d0fc0f9009f090af6f2bc366d199594026044d18
+source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 100%
+source-wordcount: '166'
+ht-degree: 94%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 100%
    + [Nomi di output della consegna query](/help/troubleshoot-adobe-campaign/query-delivery-output-names.md)
    + [Scadenza della sessione per l’approvazione di un’offerta](/help/troubleshoot-adobe-campaign/session-expired-approving-offer.md)
    + [Interruzione incondizionata nel flusso di lavoro della campagna](/help/troubleshoot-adobe-campaign/unconditional-stop-workflow.md)
-+ Consegne e canali{#deliveries-and-channels}
++ Consegne e canali {#deliveries-and-channels}
    + [Impedire l’invio di e-mail da messaggi disabilitati](/help/troubleshoot-adobe-campaign/disabled-messages-sending-emails.md)
    + [Errore di annullamento del messaggio di debug in una consegna](/help/troubleshoot-adobe-campaign/message-cancelled-error.md)
    + [Consegna SMS che finisce in stato sospeso](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
