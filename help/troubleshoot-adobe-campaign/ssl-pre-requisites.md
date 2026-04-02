@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Scopri come verificare se i prerequisiti sono soddisfatti durante l’installazione di un certificato SSL.
 
->[!VIDEO](https://video.tv.adobe.com/v/335894?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422505?captions=ita&quality=12&learn=on){transcript=true}

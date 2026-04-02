@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Scopri come annullare la pubblicazione di un’applicazione web in Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/335892?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422569?captions=ita&quality=12&learn=on){transcript=true}

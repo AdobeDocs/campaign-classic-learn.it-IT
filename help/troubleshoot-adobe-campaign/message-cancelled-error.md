@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Scopri come risolvere l’errore di messaggio annullato (rappresentazione non disponibile) in una consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/335895?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422555?captions=ita&quality=12&learn=on){transcript=true}
