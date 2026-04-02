@@ -7,7 +7,7 @@ breadcrumb-title: Tutorial su Campaign Classic v7
 auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: ht
-source-wordcount: '415'
+source-wordcount: '485'
 ht-degree: 100%
 
 ---
@@ -46,15 +46,15 @@ ht-degree: 100%
       + [Definizione del contenuto delle e-mail interattive con AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Risoluzione dei problemi di consegna e-mail](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Aggiungi allegati a una consegna e-mail](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
-      + [Progettare le e-mail per la recapitabilità](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Progettare le e-mail per la consegna](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
       + [Massimizzare il ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=it)
-      + [Guida alle best practice per la consegna](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
+      + [Guida alle best practice per la recapitabilità](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
    + Canale SMS {#sms-channel}
       + [Creare una consegna SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Canale push {#push-channel}
       + [Installazione del canale app mobile](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Configurare il canale push con Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
-      + [Guida introduttiva alle notifiche push per Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=it)
+      + [Introduzione alle notifiche push per Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=it)
    + Direct mail {#direct-mail}
       + [Creare una consegna direct mail](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Utilizzare i modelli di consegna{#using-delivery-templates}
@@ -65,7 +65,7 @@ ht-degree: 100%
       + [Utilizzo delle regole di tipologia](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Utilizzo di filtri predefiniti](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
    + Monitoraggio dei messaggi {#monitoring-messages}
-      + [Informazioni sulla gestione della quarantena](/help/sending-messages/quarantine-management.md)
+      + [Gestione della quarantena](/help/sending-messages/quarantine-management.md)
    + [Configurazione e gestione dei servizi di iscrizione](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Orchestrare le campagne {#orchestration}
    + [Esecuzione di una campagna](/help/orchestrating-campaigns/executing-a-campaign.md)
@@ -105,6 +105,6 @@ ht-degree: 100%
    + [Configurare gli SMS per Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=it)
    + Accedere a un database esterno (FDA) {#fda}
       + [Gestione dei big data su [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
-+ [Risoluzione dei problemi in Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=it)
++ [Risoluzione dei problemi di Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=it)
 + Strategia e leadership di pensiero{#strategy}
    + [Dieci best practice per il successo con Adobe Campaign per i marketer](/help/strategy/10-best-practices-for-marketers.md)

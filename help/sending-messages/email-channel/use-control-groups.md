@@ -12,7 +12,7 @@ level: Intermediate
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
 source-git-commit: 53682271ea3bc8655f3ec2621e67aadf4befd0ad
 workflow-type: ht
-source-wordcount: '93'
+source-wordcount: '131'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Scopri il concetto di gruppi di controllo e come utilizzarli per la consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449978?captions=ita&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on){transcript=true}
 
 >[!IMPORTANT]
 >Se nel flusso di lavoro di targeting sono presenti più consegne, devi abilitare le impostazioni del gruppo di controllo sia a livello di consegna che nelle impostazioni della campagna.

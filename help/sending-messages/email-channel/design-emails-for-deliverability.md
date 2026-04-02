@@ -12,7 +12,7 @@ level: Intermediate
 exl-id: 2df2986e-00f7-40fb-b37e-09fb3de9d710
 source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
 workflow-type: ht
-source-wordcount: '36'
+source-wordcount: '45'
 ht-degree: 100%
 
 ---
@@ -21,8 +21,8 @@ ht-degree: 100%
 
 Scopri come applicare alla tua campagna le best practice per il recapito dei messaggi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452566?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12&learn=on){transcript=true}
 
 ## Risorse aggiuntive
 
-[Guida alle best practice per la consegna dei messaggi e-mail](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
+[Guida alle best practice per la recapitabilità](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)

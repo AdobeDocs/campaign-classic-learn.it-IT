@@ -11,8 +11,8 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
 source-git-commit: b56c0af81ed73fa06fe4846d0794167d35a26305
-workflow-type: tm+mt
-source-wordcount: '355'
+workflow-type: ht
+source-wordcount: '388'
 ht-degree: 100%
 
 ---
@@ -31,17 +31,17 @@ Prima di iniziare, è necessario disporre dei seguenti elementi:
 
    La descrizione dettagliata dei passaggi necessari è disponibile nella documentazione del prodotto:
 
-   [Integrazione dell’SDK Campaign nell’app mobile](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/integrating-campaign-sdk-into-the-mobile-application.html?lang=it)
+   [Integrazione di Campaign SDK nell’app mobile](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/integrating-campaign-sdk-into-the-mobile-application.html?lang=it)
 
    Puoi anche usare l’SDK mobile di Experience Platform. Per ulteriori informazioni, guarda il video del tutorial:
 
-   [Configurare il canale push con l’SDK mobile di Experience Platform](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/push-channel/configure-push-using-aep-mobile-sdk.html?lang=it)
+   [Configurare il canale push con Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/push-channel/configure-push-using-aep-mobile-sdk.html?lang=it)
 
 2) Pacchetto **[!DNL Mobile App channel]installato**
 
    Il pacchetto [!DNL Mobile App channel] deve essere installato nell’istanza [!DNL Campaign]. Il seguente video spiega come verificare se [!DNL Mobile App channel] è installato nell’istanza indicata e, in caso contrario, come installarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/340423?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
 ## Panoramica del tutorial
 
