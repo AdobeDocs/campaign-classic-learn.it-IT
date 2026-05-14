@@ -10,10 +10,15 @@ team: WWFRE
 role: User
 level: Intermediate
 exl-id: a649e71c-1866-4596-88cf-0ede861c8845
-source-git-commit: 519cdef03ebb656ee8425a1b8a93c204f202b819
+TQID: https://experienceleague.adobe.com/KTgEwIgdWPytZio-lgOSjcRv3-8qw1Q6Yj7m0yYy-3w
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 84%
+source-wordcount: 70
+ht-degree: 68%
 
 ---
 
@@ -21,6 +26,6 @@ ht-degree: 84%
 
 Scopri i diversi tipi di contenuti dinamici e come creare e applicare blocchi di personalizzazione e istruzioni condizionali a una consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453346?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12&learn=on){transcript=true}
 
-Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=it).
+Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en).
