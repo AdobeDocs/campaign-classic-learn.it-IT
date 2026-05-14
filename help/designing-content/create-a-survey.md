@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Scopri come creare un sondaggio in Adobe Campaign Classic.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415810/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448081/?captions=ita&learn=on){transcript=true}

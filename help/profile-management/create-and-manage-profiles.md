@@ -36,4 +36,4 @@ Comprendi il concetto dei profili in Adobe Campaign Classic. Scopri come acceder
 
 Questo video illustra inoltre la conformità di Adobe Campaign Classic con il Regolamento generale sulla protezione dei dati (GDPR) e con il California Consumer Privacy Act (CCPA).
 
->[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326756?captions=ita&quality=12&learn=on){transcript=true}

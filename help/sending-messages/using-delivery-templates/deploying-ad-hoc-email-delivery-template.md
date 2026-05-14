@@ -28,4 +28,4 @@ ht-degree: 10%
 
 Questo video spiega come distribuire un modello di consegna e-mail ad hoc e la differenza tra una consegna e-mail e un flusso di lavoro di consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329668?captions=ita&quality=12&learn=on){transcript=true}

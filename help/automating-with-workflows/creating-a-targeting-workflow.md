@@ -29,4 +29,4 @@ ht-degree: 47%
 
 Adobe Campaign utilizza i flussi di lavoro per eseguire campagne di targeting, generare campagne o eseguire i processi tecnici di Adobe Campaign. Questo video si concentra sul targeting dei flussi di lavoro. I flussi di lavoro di targeting consentono di creare diversi target di consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329887?captions=ita&quality=12&learn=on){transcript=true}

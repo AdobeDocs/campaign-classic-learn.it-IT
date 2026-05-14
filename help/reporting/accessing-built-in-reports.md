@@ -32,4 +32,4 @@ ht-degree: 56%
 
 Scopri le funzioni di reporting e analisi integrate in Campaign Classic e come generare un rapporto sulla consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449494?captions=ita&quality=12&learn=on){transcript=true}

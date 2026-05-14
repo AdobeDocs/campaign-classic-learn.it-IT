@@ -45,6 +45,6 @@ Scopri come
 * Effettuare ricerche e generare report sui dati
 * Come esportare i dati negli elenchi e creare filtri di targeting in tempo reale
 
->[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36160?captions=ita&quality=12&learn=on){transcript=true}
 
 Per ulteriori informazioni su come configurare l&#39;accesso a Snowflake, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=it#installing-campaign-classic).

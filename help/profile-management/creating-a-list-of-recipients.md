@@ -30,4 +30,4 @@ Un elenco è un set statico di destinatari che possono essere targetizzati nelle
 
 Scopri come creare un pubblico configurando un elenco di destinatari da Explorer.
 
->[!VIDEO](https://video.tv.adobe.com/v/25602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329669?captions=ita&learn=on){transcript=true}

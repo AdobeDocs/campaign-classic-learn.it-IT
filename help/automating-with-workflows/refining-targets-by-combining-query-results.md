@@ -28,4 +28,4 @@ ht-degree: 64%
 
 Scopri come ottenere un target più mirato combinando i risultati delle query in un flusso di lavoro utilizzando le attività **[!UICONTROL intersection]** o **[!UICONTROL union]**.
 
->[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326554?captions=ita&quality=12&learn=on){transcript=true}

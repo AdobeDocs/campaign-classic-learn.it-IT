@@ -35,6 +35,6 @@ Le regole di tipologia consentono agli esperti di marketing di standardizzare le
 
 Questo video spiega come implementare la gestione dell’eccesso in Adobe Campaign Classic applicando le regole di tipologia.
 
->[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329939?captions=ita&quality=12&learn=on){transcript=true}
 
 Per ulteriori informazioni sulle [tipologie di campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=it), consulta la documentazione del prodotto.

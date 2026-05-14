@@ -31,4 +31,4 @@ ht-degree: 100%
 
 Scopri come aggiungere allegati a una consegna e-mail e come configurare diversi tipi di allegati e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452997?captions=ita&quality=12&learn=on){transcript=true}

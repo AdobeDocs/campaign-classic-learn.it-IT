@@ -30,4 +30,4 @@ ht-degree: 64%
 
 Scopri come creare una consegna e-mail direttamente da una campagna.
 
->[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329889?captions=ita&quality=12&learn=on){transcript=true}

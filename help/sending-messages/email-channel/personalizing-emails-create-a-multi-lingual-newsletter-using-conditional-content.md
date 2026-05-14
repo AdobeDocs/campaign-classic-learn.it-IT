@@ -34,6 +34,6 @@ Configurando i campi di contenuto condizionale puoi creare una personalizzazione
 
 Scopri come aggiungere contenuti condizionali a una consegna, ad esempio una newsletter multilingue.
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329895?captions=ita&quality=12&learn=on){transcript=true}
 
 Per ulteriori informazioni sulla personalizzazione, consulta la sezione [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=it).

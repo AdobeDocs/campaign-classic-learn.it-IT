@@ -29,6 +29,6 @@ ht-degree: 0%
 
 Scopri come creare e configurare le pagine di destinazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448914/?captions=ita&quality=12&learn=on){transcript=true}
 
 Per ulteriori informazioni, consulta la documentazione dettagliata su [Creazione di una pagina di destinazione](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=it).

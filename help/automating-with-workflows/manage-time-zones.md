@@ -26,4 +26,4 @@ ht-degree: 100%
 
 Scopri come applicare fusi orari alle attività pianificate del flusso di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416040?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443856?captions=ita&quality=12&learn=on){transcript=true}

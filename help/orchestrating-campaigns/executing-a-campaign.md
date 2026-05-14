@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Scopri come eseguire una campagna, esaminare una consegna e-mail e le proprietà di consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/329647?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453386?captions=ita&quality=12&learn=on){transcript=true}

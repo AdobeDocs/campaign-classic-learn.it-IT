@@ -30,4 +30,4 @@ ht-degree: 18%
 
 Scopri come eseguire query sui dati utilizzando l’editor delle query.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447878?captions=ita&quality=12&learn=on){transcript=true}

@@ -30,4 +30,4 @@ ht-degree: 14%
 
 Comprendere i concetti chiave di [!UICONTROL Adobe Campaign] per pianificare, eseguire e misurare in modo efficace le campagne di marketing su più canali.
 
->[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326578?captions=ita&quality=12&learn=on){transcript=true}

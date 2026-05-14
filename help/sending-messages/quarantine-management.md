@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Informazioni su come funziona la gestione della quarantena in Adobe Campaign e come gestire gli indirizzi messi in quarantena.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415818?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421899?captions=ita&quality=12&learn=on){transcript=true}

@@ -44,4 +44,4 @@ Un modello può includere sistematicamente:
 
 Il video seguente illustra come configurare un modello per una consegna ad hoc.
 
->[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329665?captions=ita&quality=12&learn=on){transcript=true}
