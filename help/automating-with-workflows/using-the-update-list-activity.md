@@ -10,10 +10,17 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+TQID: https://experienceleague.adobe.com/g8pUbQVacTlSUo-uNL6NiA9v32aEwW8WAkiv67nFDo0
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 70%
+source-wordcount: 78
+ht-degree: 69%
 
 ---
 
@@ -21,5 +28,5 @@ ht-degree: 70%
 
 Scopri gli elenchi in Adobe Campaign Classic e come creare un elenco utilizzando l’attività di aggiornamento elenco in un flusso di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/326570?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326570?captions=ita&quality=12&learn=on){transcript=true}
 

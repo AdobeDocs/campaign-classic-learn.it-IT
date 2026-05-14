@@ -9,13 +9,19 @@ team: TM
 role: User
 level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+TQID: https://experienceleague.adobe.com/KhR76gfI2ZAMjDZDHCm7tOqQcJ5atG23hAwssYh3kcc
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: 274
 ht-degree: 96%
 
 ---
-
 
 # Creare flussi di lavoro di convalida
 
@@ -34,18 +40,18 @@ Prima di abilitare i passaggi di approvazione, il team di marketing deve definir
 
 Se uno stesso gruppo revisori si occupa di tutte le consegne nel flusso di lavoro della campagna, puoi applicare la funzionalità di approvazione impostando approvazioni e revisori a livello di campagna. Quando il flusso di lavoro viene eseguito, le attività di approvazione e i revisori vengono applicati a ogni sua attività di consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/329899?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329899?captions=ita&quality=12&learn=on){transcript=true}
 
 ## Configurazione delle approvazioni per le consegne  {#configuring-approvals-for-deliveries}
 
 Puoi anche impostare le approvazioni a livello di consegna. Se i passaggi di approvazione e i revisori di una consegna differiscono da quelli della campagna, le impostazioni specifiche della consegna hanno la precedenza rispetto a quelle della campagna.
 
->[!VIDEO](https://video.tv.adobe.com/v/329901?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329901?captions=ita&quality=12&learn=on){transcript=true}
 
 ## Configurazione di un’attività di approvazione  {#configuring-an-approval-activity}
 
 A differenza delle approvazioni per consegne o campagne, l’attività di approvazione consente di creare un processo di approvazione all’interno di un flusso di lavoro. In questo modo, la logica di selezione del targeting può essere approvata prima dell’avvio della consegna stessa. Inoltre, se necessario, consente l’approvazione a più livelli all’interno del flusso di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/329902?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329902?captions=ita&quality=12&learn=on){transcript=true}
 
 Per ulteriori informazioni, consulta la [documentazione sulle approvazioni](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=it)

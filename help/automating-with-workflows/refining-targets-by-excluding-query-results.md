@@ -10,10 +10,17 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 4322a36c-9550-4b94-a742-b02f52c523c2
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+TQID: https://experienceleague.adobe.com/yOpTryvMIszod2MAnXcU7KRnP4GDgJjDoX1hlS24Q8U
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 83%
+source-wordcount: 70
+ht-degree: 82%
 
 ---
 
@@ -21,4 +28,4 @@ ht-degree: 83%
 
 Scopri come ottenere un target più mirato applicando **[!UICONTROL standard exclusion]** a un flusso di lavoro. Scopri anche come creare filtri predefiniti e risolvere i problemi relativi al flusso di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/326454?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326454?captions=ita&quality=12&learn=on){transcript=true}
