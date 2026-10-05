@@ -45,11 +45,11 @@ Probabilmente l&#39;utente deve essere aggiunto come &quot;utente&quot; al profi
 
 ### Video utili
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328532?captions=ita&quality=12&learn=on){transcript=true}
 
 *Verifica ID organizzazione IMS (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328147?captions=ita&quality=12&learn=on){transcript=true}
 
 *Come aggiungere un amministratore al profilo di prodotto per poter utilizzare [!UICONTROL Control panel] (01:03 min)*
 
