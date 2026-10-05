@@ -9,20 +9,29 @@ team: PM
 role: Admin
 level: Intermediate
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
-TQID: https://experienceleague.adobe.com/CG2JuTLv5UzoHcKc62AoAN24xYuR01tRd8vAm9jdEpE
+TQID: 'https://experienceleague.adobe.com/CG2JuTLv5UzoHcKc62AoAN24xYuR01tRd8vAm9jdEpE'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+feature_v2:
+  - id: c5474392-5419-4296-9e41-f6f4ce4f6e9b
+    internal-label: Administration
+subfeature_v2:
+  - id: cebd7cfa-b9fa-4d9f-a2ab-fce31f32c4a3
+    internal-label: Audit trail
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
+    internal-label: Intermediate
+source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
 workflow-type: tm+mt
-source-wordcount: 168
+source-wordcount: '168'
 ht-degree: 100%
-
 ---
-
 # Utilizzare Audit Trail
 
 [!UICONTROL Audit Trail] acquisisce in tempo reale un elenco completo di azioni ed eventi che si verificano all’interno di Adobe Campaign. Le funzioni di [!UICONTROL Audit Trail] includono la possibilità di accedere alla cronologia dei dati per rispondere a domande quali:
@@ -48,6 +57,6 @@ ht-degree: 100%
 
 Il video seguente spiega dove accedere ai registri di Audit Trail e quali impostazioni è possibile configurare.
 
->[!VIDEO](https://video.tv.adobe.com/v/328601?captions=ita&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on){transcript=true}
 
 Per ulteriori informazioni, consulta la [documentazione di Audit Trail](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=it).
