@@ -32,9 +32,9 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
-ht-degree: 83%
+ht-degree: 100%
 ---
 # Tutorial su Adobe Campaign Classic v7
 
@@ -62,7 +62,7 @@ Adobe Campaign fornisce una piattaforma per la progettazione di esperienze clien
     </a>
     <div>
       <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-    <strong>Workflow Heatmap</strong>
+    <strong>Mappe di calore dei flussi di lavoro</strong>
     </a>
     </div>
     <p>
@@ -71,11 +71,11 @@ Adobe Campaign fornisce una piattaforma per la progettazione di esperienze clien
   </td>
    <td>
     <a href="./monitoring-campaign-classic/audit-trail.md">
-      <img alt="Audit Trail (video)" src="./assets/acc-audit-trail-thumb.png" />
+      <img alt="Audit trail (video)" src="./assets/acc-audit-trail-thumb.png" />
     </a>
     <div>
       <a href="./monitoring-campaign-classic/audit-trail.md">
-    <strong>Audit Trail</strong>
+    <strong>Audit trail</strong>
     </a>
     </div> 
     <p>
@@ -84,11 +84,11 @@ Adobe Campaign fornisce una piattaforma per la progettazione di esperienze clien
   </td>
   <td>
     <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-      <img alt="Definizione del contenuto delle e-mail interattive con AMP (video)" src="./assets/29940.png" />
+      <img alt="Definizione dei contenuti per e-mail interattive con AMP (video)" src="./assets/29940.png" />
     </a>
     <div>
       <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-    <strong>Definizione del contenuto delle e-mail interattive con AMP</strong>
+    <strong>Definizione dei contenuti per e-mail interattive con AMP</strong>
     </a>
     </div>
     <p>
