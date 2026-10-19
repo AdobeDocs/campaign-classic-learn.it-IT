@@ -28,7 +28,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '168'
 ht-degree: 100%
 ---
@@ -57,6 +57,6 @@ ht-degree: 100%
 
 Il video seguente spiega dove accedere ai registri di Audit Trail e quali impostazioni è possibile configurare.
 
->[!VIDEO](https://video.tv.adobe.com/v/328601?captions=ita&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on){transcript=true}
 
 Per ulteriori informazioni, consulta la [documentazione di Audit Trail](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=it).
