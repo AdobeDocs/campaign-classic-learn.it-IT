@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Scopri come evitare che una consegna SMS risulti sospesa per un account esterno appena creato.
 
->[!VIDEO](https://video.tv.adobe.com/v/335986?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422500?captions=ita&quality=12&learn=on){transcript=true}

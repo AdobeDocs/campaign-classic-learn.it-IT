@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Scopri come aumentare il numero di flussi di lavoro per le campagne che possono essere eseguiti in parallelo sull’istanza.
 
->[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436582?captions=ita&quality=12&learn=on){transcript=true}

@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Scopri come filtrare i flussi di lavoro in cui la condizione “mantieni risultato” è impostata su true.
 
->[!VIDEO](https://video.tv.adobe.com/v/335888?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422564?captions=ita&quality=12&learn=on){transcript=true}

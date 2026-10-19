@@ -29,4 +29,4 @@ ht-degree: 100%
 # Messaggi disattivati che attivano le e-mail
 
 Scopri come interrompere le e-mail da messaggi disabilitati
->[!VIDEO](https://video.tv.adobe.com/v/335981?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437119?captions=ita&quality=12&learn=on){transcript=true}
