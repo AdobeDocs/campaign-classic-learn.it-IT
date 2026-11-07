@@ -51,7 +51,7 @@ I clienti generano dati con ogni canale a portata di mano, in quanto fanno tutte
 
 Il profilo cliente integrato di Adobe Campaign consente agli esperti di marketing di acquisire e gestire tali dati su larga scala; tutto ciò, dagli attributi di profilo come i dettagli demografici &quot;codice postale&quot;, &quot;indirizzo&quot;, &quot;genere&quot; ecc., ai dati di interazione, &quot;apertura di un messaggio&quot;, &quot;clic su un’e-mail&quot;, &quot;visita al sito web&quot;, fino ai dati di conversione e persino ai dati offline.
 
->[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507731?captions=ita&quality=12&learn=on){transcript=true}
 
 ## Creazione e aggiornamento del profilo cliente {#customer-profile-creation-and-update}
 
@@ -63,5 +63,5 @@ Una volta compresi i profili, sei pronto per eseguire una segmentazione avanzata
 
 Nota: questo video è stato registrato in Adobe Campaign Classic V6 e le funzionalità sono identiche, anche se le icone del flusso di lavoro sono cambiate.
 
->[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507876?captions=ita&quality=12&learn=on){transcript=true}
 

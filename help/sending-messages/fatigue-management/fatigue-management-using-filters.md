@@ -51,6 +51,6 @@ La gestione dell’eccesso controlla la frequenza e la quantità di messaggi per
 
 Questo video spiega come implementare la gestione dell’eccesso in Adobe Campaign Classic utilizzando i filtri.
 
->[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507478?captions=ita&quality=12&learn=on){transcript=true}
 
 Per ulteriori informazioni sulle [tipologie di campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=it), consulta la documentazione del prodotto.
